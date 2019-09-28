@@ -12,3 +12,4 @@ bbbbbbbbbbbbbb
 test
 >>>>>>> Stashed changes
 000000000000000000000000000000000000
+new
